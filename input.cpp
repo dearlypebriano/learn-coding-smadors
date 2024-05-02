@@ -1,6 +1,13 @@
 #include <iostream> // header file untuk input output
 #include <sstream>  // header file untuk istringstream
 
+/**
+ * Contoh program untuk membuat output berdasarkan input user
+ * 
+ * Author: Dearly Febriano Irwansyah
+ * Date: Kamis, 2-Mei-2024 (11.40 WIB - 11.50 WIB)
+ * Proccess: Coding(5 Minutes), Debugging(5 Minutes)
+ */
 int main() {
     char name[100];  // variable untuk menyimpan nama
     char alamat[100]; // variable untuk menyimpan alamat
